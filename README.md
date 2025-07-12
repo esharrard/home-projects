@@ -14,7 +14,7 @@ Right-click the OU → New → User
 Fill in:
 First name
 Last name
-User logon name (e.g., jdoe@yourdomain.com)
+User logon name (e.g., last.first@blank.com)
 Click Next
 Set Password and Options
 Assign a strong password
