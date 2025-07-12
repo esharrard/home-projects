@@ -45,3 +45,39 @@ https://www.loom.com/share/cd08e8607f68450d9ca53162011f26e8
 
 
 # Creating a Group in Active directory
+
+Connect to the EC2 Instance
+Open AWS Console → EC2 → Connect → Download .rdp file
+Log in with domain admin credentials
+
+Open AD Users and Computers
+Start → Search → Type "active" → Open
+
+<img width="778" height="782" alt="image" src="https://github.com/user-attachments/assets/bb29e78a-2c9b-4ace-a3ac-0d4cd2cfdc47" />
+
+Navigate to the Organizational Unit (OU)
+Expand your domain → Right-click desired OU (e.g., "Users")
+
+Create the Group
+Right-click the OU → New → Group
+
+<img width="1063" height="641" alt="image" src="https://github.com/user-attachments/assets/0cc7b34c-a4b5-4eb9-a794-dcbb49ba1f1f" />
+
+Enter:
+Group name: e.g., IT-Support
+Group scope: Global (default) or Universal
+Group type: Security (default)
+Click OK
+Verify the Group
+
+Group will now appear in the selected OU
+
+<img width="756" height="536" alt="image" src="https://github.com/user-attachments/assets/8b30c895-8e32-4360-8ccf-268ede4c9a8a" />
+
+You can double-click the group to edit properties and add members
+
+Below is a link to a Loom video of me preforming these actions
+
+https://www.loom.com/share/10d7f7e7739d4d7d805faaa5aa03f79f?sid=04ce8892-f30b-41c6-9b56-2a95eeefddf0
+
+
