@@ -23,12 +23,17 @@ First name
 Last name
 User logon name (e.g., last.first@blank.com)
 Click Next
+
 Set Password and Options
 Assign a strong password
 Choose options like:
 User must change password at next login
 Password never expires (optional)
 Click Next → Finish
+
 Confirm the User is Created
+
+<img width="753" height="528" alt="image" src="https://github.com/user-attachments/assets/381c5c44-598c-4d57-a38c-21bbe76c5f6a" />
+
 
 The user should now appear in the list within the selected OU.
