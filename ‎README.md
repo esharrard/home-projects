@@ -81,3 +81,33 @@ Below is a link to a Loom video of me preforming these actions
 https://www.loom.com/share/10d7f7e7739d4d7d805faaa5aa03f79f?sid=04ce8892-f30b-41c6-9b56-2a95eeefddf0
 
 # Resetting a Users Password
+
+Connect to the EC2 Instance
+Go to the AWS Console → EC2 → Connect → Download the .rdp file.
+Use your domain admin credentials to log in via RDP.
+
+Open AD Users and Computers
+Start → Search → Type "active" → Open
+
+<img width="778" height="782" alt="image" src="https://github.com/user-attachments/assets/bb29e78a-2c9b-4ace-a3ac-0d4cd2cfdc47" />
+
+Find the User Account
+Expand your domain tree → Navigate to the Users or appropriate OU.
+Right-click the user whose password you want to reset → Select Reset Password.
+
+<img width="756" height="657" alt="image" src="https://github.com/user-attachments/assets/771950d1-6422-441f-9e56-5748b69b90f2" />
+
+
+Enter New Password
+Type and confirm the new password.
+Optionally select:
+Check User must change password at next logon
+Check Unlock the user’s account (if it's locked out)
+
+<img width="750" height="531" alt="image" src="https://github.com/user-attachments/assets/ccf001a6-7892-4d9a-a090-bf4e1f3e8f71" />
+
+Click OK to apply.
+
+Below is a link to a Loom video of me preforming these actions
+
+https://www.loom.com/share/5b158a4be48a40548acde05444715927?sid=67bcf74c-8211-41aa-8868-dd41edbb4651
