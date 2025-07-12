@@ -41,3 +41,8 @@ The user should now appear in the list within the selected OU.
 Below is a link to a Loom video of me preforming these actions 
 
 https://www.loom.com/share/cd08e8607f68450d9ca53162011f26e8
+
+
+
+﻿# Creating a Group in Active directory
+
