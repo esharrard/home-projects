@@ -14,6 +14,10 @@ Browse the tree under your domain to locate the OU where you want to create the 
 
 Create a New User
 Right-click the OU → New → User
+
+<img width="1118" height="714" alt="image" src="https://github.com/user-attachments/assets/e2c466a4-0b9f-4736-b321-75cc523661b2" />
+
+
 Fill in:
 First name
 Last name
