@@ -6,6 +6,9 @@ Download the .rdp file and use your domain credentials to log in.
 
 Open "Active Directory Users and Computers"
 Start → Search → Type "active" → Open
+
+<img width="778" height="782" alt="image" src="https://github.com/user-attachments/assets/bb29e78a-2c9b-4ace-a3ac-0d4cd2cfdc47" />
+
 Navigate to Your Desired OU
 Browse the tree under your domain to locate the OU where you want to create the user.
 
